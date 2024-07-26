@@ -38,3 +38,16 @@ p {
 button {
   margin: 20px;
 }
+
+h1{
+	text-align: center;
+}
+
+#h{
+	text-align: center;
+}
+
+#btn{
+	display: flex;
+    justify-content: center;
+}
